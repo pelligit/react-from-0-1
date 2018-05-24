@@ -1,0 +1,10 @@
+@font-face{
+	font-family: SourceCodePro;
+	src: url('./font/source-code-pro/ttf/SourceCodePro-Light.ttf');
+}
+
+body{
+	background-color: #ccc;
+	background-image: url('./bg.jpg');
+	font-family: SourceCodePro;
+}
