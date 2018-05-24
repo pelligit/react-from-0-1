@@ -6,7 +6,7 @@
 $ cd ~
 $ mkdir react-demo-0-1 && cd react-demo-0-1
 $ npm init
-$ cnpm install --save-dev react react-dom
+$ cnpm install --save react react-dom
 $ cnpm install --save-dev webpack webpack-cli webpack-dev-server
 $ cnpm install --save-dev babel-core babel-polyfill babel-preset-es2015 babel-preset-stage-2 babel-preset-react
 
