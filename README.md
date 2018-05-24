@@ -18,7 +18,11 @@ $ touch webpack.config.js
 
 $ npm install --save-dev html-webpack-plugin
 
-$ npm install --save-dev css-loader style-loader file-loader url-loader babel-loader 
+$ npm install --save-dev css-loader style-loader file-loader url-loader babel-loader html-loader
+
+# 其他
+# 用以处理HTML中的图片。可以使用Html-loader替代
+$ npm install --save-dev html-withimg-loader
 ```
 
 

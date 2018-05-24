@@ -5,6 +5,13 @@
 
 body{
 	background-color: #ccc;
-	background-image: url('./bg.jpg');
+	
 	font-family: SourceCodePro;
+}
+
+.empty-div{
+	width: 561px;
+	height: 205px;
+	background-image: url('./pelli.jpg');
+	background-repeat: no-repeat;
 }
